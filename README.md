@@ -5,7 +5,7 @@ This project is a simple sine wave animation demonstration using Pygame. It feat
 
 ## How To Use
 
-- Clone url [ git clone https://github.com/fluffy/repository-name.git](https://github.com/FluffyRudy/sine-animation.git)
+- Clone url [sine animation](https://github.com/FluffyRudy/sine-animation.git)
 
 ### Dependencies
 
