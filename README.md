@@ -1,7 +1,7 @@
 # Python Ball Animation Project
 
 This project is a simple sine wave animation demonstration using Pygame. It features two balls moving within a window, if needed you can create more
-
+![DEMO](demo.gif)
 
 ## How To Use
 
