@@ -10,7 +10,7 @@ This project is a simple sine wave animation demonstration using Pygame. It feat
 ### Dependencies
 
 - Ensure you have python3.x installed in your device. The required dependencies are listed in `requirements.txt`.
-- If you use linux/mac make sure you create virtual environment or else you may get error, then run bash command below.
+- If you use linux/mac make sure you create virtual environment or else you may get error
 
 To install the dependencies, run:
 
